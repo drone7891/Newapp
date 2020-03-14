@@ -1,0 +1,16 @@
+.color-un{
+  background-color: #000000;
+}
+.color-bi{
+  background-color: #ffffff;
+}
+.color-tri{
+  background-color: #fc030b;
+}
+.cross{
+  transform: rotate(-3deg);
+  position: relative;
+}
+.rd-btn{
+  border-radius: 50%;
+}
